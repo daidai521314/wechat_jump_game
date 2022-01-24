@@ -67,12 +67,3 @@ adb shell input swipe x y x y time(ms)
 
 - 详见 [contributors](https://github.com/wangshub/wechat_jump_game/graphs/contributors)
 
-## 交流
-
-- 314659953 (1000 人)
-- 176740763 (500 人)
-
-- 或者关注我的微信公众号后台留言
-
-![](./resource/image/qrcode_for_gh_3586401957c4_258.jpg)
-
